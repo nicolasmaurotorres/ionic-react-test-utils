@@ -1,6 +1,6 @@
 {
-  "name": "@ionic/react-test-utils",
-  "version": "0.0.3",
+  "name": "@marowark/ionic-react-test-utils",
+  "version": "0.0.4",
   "main": "dist/index.js",
   "description": "Test utilities for Ionic React",
   "keywords": [
@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ionic-team/ionic-react-test-utils.git"
+    "url": "https://github.com/nicolasmaurotorres/ionic-react-test-utils.git"
   },
   "typings": "dist/index.d.ts",
   "scripts": {
@@ -72,9 +72,9 @@
     ]
   },
   "bugs": {
-    "url": "https://github.com/ionic-team/ionic-react-test-utils/issues"
+    "url": "https://github.com/nicolasmaurotorres/ionic-react-test-utils/issues"
   },
-  "homepage": "https://github.com/ionic-team/ionic-react-test-utils#readme",
+  "homepage": "https://github.com/nicolasmaurotorres/ionic-react-test-utils#readme",
   "dependencies": {},
   "author": "torres.nicolas.mauro@gmail.com"
 }
