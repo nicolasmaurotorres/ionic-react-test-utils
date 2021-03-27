@@ -70,5 +70,11 @@
     "modulePaths": [
       "<rootDir>"
     ]
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-react-test-utils/issues"
+  },
+  "homepage": "https://github.com/ionic-team/ionic-react-test-utils#readme",
+  "dependencies": {},
+  "author": "torres.nicolas.mauro@gmail.com"
 }
